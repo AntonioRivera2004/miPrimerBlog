@@ -1,0 +1,17 @@
+p{
+    color: rgb(197, 0, 197);
+}
+
+h2{
+    color: rgb(0, 189, 85);
+}
+
+ol{
+    color: rgb(197, 0, 197);
+}
+
+body{
+    background-image: url("Images/RandomImages/catBackground.jpg");
+      max-width: 800px;    /* Ancho máximo del contenido */
+    margin: 0 auto;      /* 0 arriba/abajo, auto a los lados = centrado */
+}
